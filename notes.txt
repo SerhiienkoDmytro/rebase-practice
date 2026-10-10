@@ -1,2 +1,2 @@
-hello FROM MAIN
+hello FROM MAIN and  FEATURE
 main work
